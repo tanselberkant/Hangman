@@ -1,15 +1,21 @@
 var programming_languages = [
-	"cevgan",
-	"okculuk",
-	"binicilik",
-	"gures",
-	"cirit",
-	"gokboru",
-	"kizboru",
-	"tepuk",
-	"suleymanoglu",
-	"hulyasenyurt",
-	"atagunyalcinkaya",			
+	"atina",
+	"paris",
+	"Londra",
+	"stockholm",
+	"ansvers",
+	"amsterdam",
+	"berlin",
+	"helsinki",
+	"roma",
+	"tokyo",
+	"meksiko",		
+  "moskova",
+  "seul",
+  "barselona",
+  "sidney",
+  "pekin",
+  "atlanta"	
 ]
 
 let answer = '';
